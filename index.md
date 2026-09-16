@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Implantació de sistemes operatius"
+title: "Administració de Sistemes Operatius"
 ---
 
 <p>Aquest repositori té el material del curs Administració de Sistemes Operatius desenvolupat per Ferran Bernis.</p>
