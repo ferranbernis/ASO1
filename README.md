@@ -1,6 +1,6 @@
 # Curs de Implantació de sistemes operatius
 
-Este repositorio cuenta con el material del curso de Implantación de sistemas operativos desarrollado por Ferran Bernis.
+Este repositorio cuenta con el material del curso Administració de Sistemes Operatius desarrollado por Ferran Bernis.
 
 ## Contenido
 
