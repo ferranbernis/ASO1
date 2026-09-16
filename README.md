@@ -12,7 +12,7 @@ Este repositorio cuenta con el material del curso Administració de Sistemes Ope
 
 Este repositorio está preparado para ser publicado con GitHub Pages.  
 Puedes ver la versión web pública en:  
-https://ferranbernis.github.io/ISOPJ1/
+https://ferranbernis.github.io/ASO1/
 
 ## Licencia
 
