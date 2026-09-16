@@ -12,7 +12,7 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 ES](LICENSE.md).
 
 # Contingut del curs
 
-# PROJECTE 1 
+# PRACTICA 1 
 
 
-# PROJECTE 2
+# PRACTICA 2
