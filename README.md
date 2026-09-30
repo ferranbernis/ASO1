@@ -21,5 +21,5 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 ES](LICENSE.md).
 
 ---
 
-© 2025 Ferran Bernis
+© 2026/27 Ferran Bernis
 
