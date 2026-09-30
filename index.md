@@ -12,7 +12,9 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 ES](LICENSE.md).
 
 # Contingut del curs
 
-# PRACTICA 1 
-### [Target i Script](P1/P1.md)  
+# TRIMESTRE 1 
+### [Target,Service i Script](P1/P1.md)  
 
-# PRACTICA 2
+# TRIMESTRE 2
+
+# TRIMESTRE 3
